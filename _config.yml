@@ -1,14 +1,14 @@
 # site variables
-url:          "https://rand-asswad.xyz"
+url:          "https://fraufraw.github.io/"
 baseurl:      ""
 source:       ./_src
 destination:  ./_site
 
 # meta
-title: Rand Asswad
+title: Franklin Wang
 description: | # appears in search engines preview (keep it under 120 chars)
-  Rand Asswad is an engineer in applied mathematics and computer science, 
-  specialized in AI and mathematical modeling.
+  Franklin is a student in computer science, 
+  specialized Linguistics.
 
 # jekyll collections
 collections:
