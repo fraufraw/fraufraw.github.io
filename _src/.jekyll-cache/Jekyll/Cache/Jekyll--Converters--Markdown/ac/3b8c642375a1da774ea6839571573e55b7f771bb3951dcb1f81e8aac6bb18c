@@ -1,0 +1,11 @@
+I"‰<p>Studied Multi-Agent Systems as part of my Masters program, with focus on
+the <strong>belief-desire-intention</strong> model that was applied in two mini-projects.</p>
+
+<p>Implemented <em>capture the flag</em> game using <a href="http://jason.sourceforge.net/wp/">jason</a>
+as a basic BDI-model application. Also built a simulation of the propagation of the flu
+in a city using <a href="https://gama-platform.github.io/">GAMA</a> modeling environment.</p>
+
+<p>Studied <strong>Multi-Agent Reinforcement Learning</strong> in the framework
+of Game Theory by extensively analysing a scientific paper and comparing it
+with more recent litterature.</p>
+:ET

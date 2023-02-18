@@ -1,0 +1,6 @@
+I"<p>Implemented the famous sliding tiles game in Prolog using A* graph search algorithm
+for N×M sized puzzles.</p>
+
+<p>Implemented also a greedy algorithm and Iterative Deepening Depth-First-Search,
+and compared the performance and results of the algorithms.</p>
+:ET

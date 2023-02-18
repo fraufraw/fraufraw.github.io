@@ -1,0 +1,7 @@
+I" <p>Implemented mathematical operations for floating-point numbers (IEEE 765 standard)
+through bitwise operations in C++ using Newtonâ€™s Algorithm, CORDIC and others.</p>
+
+<p>Having learned the floating numbers machine representation and implemented
+the square root function as an assignment for a course in computer-based calculations,
+I was compelled to extend the assignment to other mathematical operations.</p>
+:ET

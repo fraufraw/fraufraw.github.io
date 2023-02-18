@@ -1,0 +1,18 @@
+I"R<ul>
+  <li>
+    <p>Led a cross-functional team of seven developers that includes artists, writers, and programmers to create a mystery
+adventure game with Unity and held responsibility similar to the position of Game Designer and Gameplay
+Programmer.</p>
+  </li>
+  <li>
+    <p>Programmed the inventory system and 2D movement by using Unity engine’s C# scripting API</p>
+  </li>
+</ul>
+
+<p>Studied and implemented active contour models for parametric curve and level-set curves,
+evolving the curves by minimizing the mean-curvature or the geodesic metric.
+A medical image is segmented using the proposed algorithms and their performance is compared.</p>
+
+<p>The project is based on <a href="https://www.numerical-tours.com/">Numerical Tours (G. Peyré)</a>
+which explores image processing among other data science and applied mathematics topics.</p>
+:ET

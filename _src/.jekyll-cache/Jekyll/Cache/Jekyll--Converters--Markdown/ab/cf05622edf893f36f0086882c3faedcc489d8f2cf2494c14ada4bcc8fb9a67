@@ -1,0 +1,7 @@
+I"¥<p>Implemented an <em>AsciiMath to LaTeX</em> interpretor using <a href="https://www.antlr.org/">ANTLR</a>.
+This project was part of the course <em>lexical and syntaxical analysis</em> in my INSA Masters program.</p>
+
+<p>AsciiMath is a markup language that represents a subset of mathematical expressions using
+simple readable ASCII syntax unlike LaTeX or MathJax.
+AsciiMath is to TeX Math what Markdown is to LaTeX.</p>
+:ET
