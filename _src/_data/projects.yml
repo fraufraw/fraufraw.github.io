@@ -1,3 +1,19 @@
+- title: Bootsies
+  long_title: Bootsies
+  date: Sep 2024 - Present
+  link: https://store.steampowered.com/app/3421590/Bootsies/
+  description: |
+    * Designed core combat mechanics such as hit detection and movesets.
+    * Collaborated with designers and artists to integrate movesets, frame data, and balance adjustments.
+    * Implemented core game systems in Godot (GDScript) including hit detection, hitstun/blockstun logic.
+    * Worked closely with playtesters to gather gameplay feedback and iterated on combat feel, frame data, and move balance.
+    * Assisted with pre-release QA, bug fixing, and build preparation for Steam release.
+  tags:
+    - Godot
+    - GDScript
+    - Git
+    - Adobe Audition
+
 - title: UChat
   long_title: UChat
   date: May 2021 - June 2021
@@ -49,3 +65,4 @@
 
   tags:
     - Python
+
