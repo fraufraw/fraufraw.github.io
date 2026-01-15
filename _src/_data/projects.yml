@@ -1,11 +1,10 @@
 - title: Bootsies
   long_title: Bootsies
-  date: Sep 2024 - Present
+  date: Sep 2024 - Dec 2025
   link: https://store.steampowered.com/app/3421590/Bootsies/
   description: |
-    * Designed core combat mechanics such as hit detection and movesets.
-    * Collaborated with designers and artists to integrate movesets, frame data, and balance adjustments.
-    * Implemented core game systems in Godot (GDScript) including hit detection, hitstun/blockstun logic.
+    * Playtested core combat mechanics such as hit detection and movesets.
+    * Collaborated with designers to integrate movesets, frame data, and balance adjustments.
     * Worked closely with playtesters to gather gameplay feedback and iterated on combat feel, frame data, and move balance.
     * Assisted with pre-release QA, bug fixing, and build preparation for Steam release.
   tags:
@@ -14,11 +13,27 @@
     - Git
     - Adobe Audition
 
+- title: OGE Community
+  long_title: OGE Community
+  date: Sep 2023 - Sep 2024
+  description: |
+  
+    * Designed and maintained modular, developer-facing tools supporting interactive systems used by a global user base of 500+ active users
+    * Built tooling and automation using Lua and Python, enabling system analysis and improved developer productivity
+    * Collaborated with developers and users to gather feedback and refine features, improving usability
+    * Facilitated design and planning meetings to define system scope
+    * Rapidly created a controller input parsing Python program with the help of LLM to decrease the scripting time by at least 100%
+  tags:
+    - Lua
+    - Python
+   
 - title: UChat
   long_title: UChat
-  date: May 2021 - June 2021
+  date: June 2023 - Jul 2024
   github: https://github.com/fraufraw/UChat
+
   description: |
+
     * Led a team of five software engineers to develop a full stack web application that provides college students a casual
       platform to communicate with their peers and professors.
     * Designed and Implemented the first prototype with React.js and Node.js that outlines the product for the team.
@@ -30,26 +45,9 @@
     - MongoDB
     - Git
 
-- title: LD47
-  long_title: Ludum Dare 47 Game Jam
-  date: October 2020
-
-  description: |
-    * Led a cross-functional team of seven developers that includes artists, writers, and programmers to create a mystery
-      adventure game with Unity and held responsibility similar to the position of Game Designer and Gameplay
-      Programmer.
-    
-    * Programmed the inventory system and 2D movement by using Unity engine’s C# scripting API.
-    
-    * Designed the game levels by using a combination of scripting and built-in tools from the Unity engine.
-
-  tags:
-    - Unity
-    - C#
-
 - title: FRC
   long_title: First-Roman-Cancel
-  date: June 2018 - Jan 2019
+  date: June 2023
   description: |
     * Collaborated with another software engineer and designed a training tool with Python that provides fighting game
       players a better visualization by 900% to learn about complex frame mechanics.
@@ -65,4 +63,22 @@
 
   tags:
     - Python
+
+- title: Gameplay Programmer
+  long_title: ACM Studio
+  date: Sep 2022
+  description: |
+  
+    * Led a cross-functional team of seven developers that includes artists, writers, and programmers to create a mystery
+      adventure game with Unity and held responsibility similar to the position of Game Designer and Gameplay
+      Programmer.
+    
+    * Programmed the inventory system and 2D movement by using Unity engine’s C# scripting API.
+    
+    * Designed the game levels by using a combination of scripting and built-in tools from the Unity engine.
+
+  tags:
+    - Unity
+    - C#
+
 
