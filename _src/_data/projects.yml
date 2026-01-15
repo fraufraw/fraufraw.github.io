@@ -16,8 +16,7 @@
 - title: OGE Community
   long_title: OGE Community
   date: Sep 2023 - Sep 2024
-  description: |
-  
+  description: |  
     * Designed and maintained modular, developer-facing tools supporting interactive systems used by a global user base of 500+ active users
     * Built tooling and automation using Lua and Python, enabling system analysis and improved developer productivity
     * Collaborated with developers and users to gather feedback and refine features, improving usability
@@ -51,13 +50,10 @@
   description: |
     * Collaborated with another software engineer and designed a training tool with Python that provides fighting game
       players a better visualization by 900% to learn about complex frame mechanics.
-
     * Strengthened player’s experience and execution by a minimum of 30% with an accessible UI that parses and
-      displays controller inputs with pygame package.
-    
+      displays controller inputs with pygame package.    
     * Introduced new players into the community and convinced them to pick up the game series and its future
       installment.
-
     * Designed an update with co-worker that would support different characters in the future for players to learn based
       on Object-Oriented Design/Programming.
 
@@ -67,19 +63,17 @@
 - title: ACM Studio
   long_title: Gameplay Programmer
   date: Sep 2022
-  description: |
-  
+  description: |  
     * Led a cross-functional team of seven developers that includes artists, writers, and programmers to create a mystery
       adventure game with Unity and held responsibility similar to the position of Game Designer and Gameplay
-      Programmer.
-    
-    * Programmed the inventory system and 2D movement by using Unity engine’s C# scripting API.
-    
+      Programmer.    
+    * Programmed the inventory system and 2D movement by using Unity engine’s C# scripting API.    
     * Designed the game levels by using a combination of scripting and built-in tools from the Unity engine.
 
   tags:
     - Unity
     - C#
+
 
 
 
