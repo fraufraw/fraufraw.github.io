@@ -54,7 +54,6 @@
       installment.
     * Designed an update with co-worker that would support different characters in the future for players to learn based
       on Object-Oriented Design/Programming.
-
   tags:
     - Python
 
@@ -67,10 +66,10 @@
       Programmer.    
     * Programmed the inventory system and 2D movement by using Unity engine’s C# scripting API.    
     * Designed the game levels by using a combination of scripting and built-in tools from the Unity engine.
-
   tags:
     - Unity
     - C#
+
 
 
 
