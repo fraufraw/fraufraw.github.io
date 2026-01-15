@@ -64,8 +64,8 @@
   tags:
     - Python
 
-- title: Gameplay Programmer
-  long_title: ACM Studio
+- title: ACM Studio
+  long_title: Gameplay Programmer
   date: Sep 2022
   description: |
   
@@ -80,5 +80,6 @@
   tags:
     - Unity
     - C#
+
 
 
